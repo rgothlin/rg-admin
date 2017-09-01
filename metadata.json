@@ -1,0 +1,27 @@
+{
+    "name": "RG Admin",
+    "version": "1.1",
+    "download_url": "https://bitbucket.org/rgreenberg/rg-admin/get/ce23f4222065.zip",
+
+    "homepage": "https://gothlin.no/",
+    "requires": "4.5",
+    "tested": "4.8",
+
+    "author": "Rickard Gothlin",
+    "author_homepage": "https://gothlin.no/",
+
+    "sections": {
+        "description": "Custom Admin Area for users of RG Websites."
+    },
+
+    "banners": {
+        "low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
+        "high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+    },
+
+    "rating": 95,
+    "num_ratings": 123,
+
+    "downloaded": 49,
+    "active_installs": 42
+}
