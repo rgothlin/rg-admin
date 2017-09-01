@@ -1,7 +1,7 @@
 {
     "name": "RG Admin",
     "version": "1.1",
-    "download_url": "https://bitbucket.org/rgreenberg/rg-admin/get/ce23f4222065.zip",
+    "download_url": "https://github.com/rgothlin/rg-admin/blob/master/rg-admin.zip",
 
     "homepage": "https://gothlin.no/",
     "requires": "4.5",
